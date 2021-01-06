@@ -1,0 +1,5 @@
+Region,Country,Item Type,Sales Channel,Order Priority,Order Date,Order ID,Ship Date,Units Sold,Unit Price,Unit Cost,Total Revenue,Total Cost,Total Profit
+Australia and Oceania,Palau,Office Supplies,Online,H,03-06-2016,517073523,3/26/2016,2401,651.21,524.96,1563555.21,1260428.96,303126.25
+Europe,Poland,Beverages,Online,L,4/18/2010,380507028,5/26/2010,9340,47.45,31.79,443183,296918.6,146264.4
+North America,Canada,Cereal,Online,M,01-08-2015,504055583,1/31/2015,103,205.7,117.11,21187.1,12062.33,9124.77
+
